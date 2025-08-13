@@ -1,1 +1,2 @@
-Hello this is gitignore lesson
+Hello this is gitignore lesson.
+Now This is Review exercise at 12:51 AM.
